@@ -11,7 +11,7 @@ let productIndex = rs.keyInSelect(products, "Please choose a product: (insert th
 isProductAvailable = productIndex >= 0;
 
 
-canBuy = userAge > 18 && isProductAvailable && isShopOpen ? "Here you go" : "Sorry, you can't buy";
+canBuy = userAge > 18 && isProductAvailable && isShopOpen;
 
 
-console.log(canBuy);
+cconsole.log(`${canBuy ? "Hero you go!" : "Sorry, you can't buy."}`);
