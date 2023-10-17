@@ -6,7 +6,7 @@ Imagine you want to buy a drink, but
 - the product should be available
 - the shop should be open
 
-```
+```js
 let userAge;
 let products = ["Beer", "Wine", "Vodka"];
 let isProductAvailable;
