@@ -1,6 +1,9 @@
 ### Exercise at DCI - Web Development course
 
-#### Exercise 1
+This is for educational purposes only. All credit for the design is given to the original designer.
+
+#### JS practice
+
 Imagine you want to buy a drink, but
 - you have to be older than 18 years
 - the product should be available
